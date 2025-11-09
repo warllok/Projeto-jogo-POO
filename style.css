@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: white;
+  font-family: 'Press Start 2P', monospace;
+}
+
+canvas {
+  border: 3px solid white;
+  background: linear-gradient(#87CEEB, #228B22);
+}
